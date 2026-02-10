@@ -2,7 +2,7 @@
 I am Dirk Tony. 
 I am currently working at Sustainable Management Services Consulting as a developer.
 
-This account is stricly proffesional. 
+This account is strictly proffesional. 
 Mail Address: tony@smsconsulting-mg.com
 
 For anything personal related, go to my [main account](https://github.com/tonymushah) instead.
